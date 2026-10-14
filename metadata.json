@@ -1,0 +1,6 @@
+{
+  "name": "Foodie Hub - Crave & Delight",
+  "description": "Chef-crafted biryanis, gourmet pizzas, fiery noodles, and artisanal desserts delivered piping hot in under 30 minutes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
